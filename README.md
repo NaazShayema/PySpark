@@ -1,4 +1,4 @@
-# Pyspark🌟
+# PySpark🌟
 
 
 ### 📖📖Overview
@@ -7,10 +7,10 @@ PySpark is the Python API for Apache Spark, an open-source distributed computing
 
 ### 📌📌 Contents
 - Introduction
-- Pyspark Dataframe (reading the dataset, selecting columns and indexing, checking the describe option similar to pandas, adding columns, dropping the columns)
+- PySpark Dataframe (reading the dataset, selecting columns and indexing, checking the describe option similar to pandas, adding columns, dropping the columns)
 - Handling missing values
 - Filter Operations
 - GroupBy And Aggregate functions
-- Examples of Pyspark ML
-- Regression using Pyspark
-- Classification using Pyspark
+- Examples of PySpark ML
+- Regression using PySpark
+- Classification using PySpark
